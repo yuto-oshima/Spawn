@@ -1,0 +1,31 @@
+{
+  "name": "Spawn",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "7.8.3",
+    "@rails/actioncable": "6.0.0-alpha",
+    "@rails/activestorage": "6.0.0-alpha",
+    "@rails/ujs": "6.0.0-alpha",
+    "@rails/webpacker": "4.2.2",
+    "@types/react": "16.9.17",
+    "@types/react-dom": "16.9.4",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.24",
+    "prop-types": "15.7.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "ts-loader": "6.2.1",
+    "turbolinks": "5.2.0",
+    "typescript": "3.7.4",
+    "webpacker-react": "0.3.2"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1",
+    "webpack-dev-server": "3.10.1"
+  }
+}
